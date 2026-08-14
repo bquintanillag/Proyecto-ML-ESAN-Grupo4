@@ -50,3 +50,5 @@ jobs:
           git add -A
           git commit -m "Agregar notebook y PDF finales exactos"
           git push
+
+# trigger: 2026-08-14
