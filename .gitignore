@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+# El dataset se regenera de forma reproducible desde el notebook.
+dataset_sintetico.csv
